@@ -1,5 +1,5 @@
 # Hammr
-[![Hammr Screenshot](https://github.com/judge0/ide/blob/master/.github/screenshot.png?raw=true)](https://hammr.pages.dev/?7U55)
+[![Hammr Screenshot](https://github.com/judge0/ide/blob/master/.github/screenshot.png?raw=true)](https://hammr.pages.dev/)
 
 <a href="https://patreon.com/vanshajpoonia" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="" height="43px" /></a>
 
@@ -15,7 +15,7 @@ Or you just want to follow Judge0 news?
 Check out these links:
 
 * [Subscribe to Judge0 newsletter](https://hammr-newsletter.web.app)
-* [Join a Discord server]()
+* [Join a Discord server](https://discord.gg/EneczxZy)
 * [Report an issue](https://docs.google.com/forms/d/e/1FAIpQLScglEo-XJbUqW9s4WJ3-No3x8iXlmegO-wAf7CCiUSKwaYiDQ/viewform?usp=sf_link)
 * [Contact the author](https://github.com/VanshajPoonia)
 * [Get free online support](https://instagram.com/vanshajpoonia)
