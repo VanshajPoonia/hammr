@@ -1,7 +1,8 @@
 # Hammr
 [![Hammr Screenshot](https://github.com/judge0/ide/blob/master/.github/screenshot.png?raw=true)](https://hammr.pages.dev/)
 
-<a href="https://patreon.com/vanshajpoonia" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="" height="43px" /></a>
+<a href="https://patreon.com/vanshajpoonia" target="_blank"><img src="https://c5.patreon.com/extern![Screenshot (281)](https://user-images.githubusercontent.com/74147463/138558144-d1392fe7-88f6-4f31-bf38-2daf2020c888.png)
+al/logo/become_a_patron_button@2x.png" alt="" height="43px" /></a>
 
 ## About
 [**Hammr IDE**](https://hammr.pages.dev) is a free and open-source online code editor that allows you to write and execute code from a rich set of languages. It's perfect for anybody who just wants to quickly write and run some code without opening a full-featured IDE on their computer. Moreover, it is also useful for teaching and learning or just trying out a new language.
