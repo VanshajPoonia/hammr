@@ -1,5 +1,4 @@
 # Hammr
-[![Hammr Screenshot](https://github.com/judge0/ide/blob/master/.github/screenshot.png?raw=true)](https://hammr.pages.dev/)
 
 [![Another Image](https://user-images.githubusercontent.com/74147463/138558144-d1392fe7-88f6-4f31-bf38-2daf2020c888.png)](https://hammr.pages.dev/)
 <a href="https://patreon.com/vanshajpoonia" target="_blank"><img src="https://c5.patreon.com/extern!
