@@ -1,6 +1,6 @@
 # Hammr
 
-[![Another Image](https://user-images.githubusercontent.com/74147463/138558144-d1392fe7-88f6-4f31-bf38-2daf2020c888.png)](https://hammr.pages.dev/)
+[![Another Image](https://user-images.githubusercontent.com/74147463/147386790-5cef4dc9-79db-4f4b-aeeb-aedad68655e1.png)](https://hammr.org/)
 <a href="https://patreon.com/vanshajpoonia" target="_blank"><img src="https://c5.patreon.com/extern!
 al/logo/become_a_patron_button@2x.png" alt="" height="43px" /></a>
 
