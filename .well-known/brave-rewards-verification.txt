@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hammr.org
+Token: 980af17fffb4996deec00ab55d85d34fd344e305c0ceba6c9146cb4a62b48ae3
