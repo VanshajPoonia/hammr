@@ -553,7 +553,7 @@ $(document).ready(function () {
   });
 
   $navigationMessage = $("#navigation-message span");
-  $updates = $("#judge0-more");
+  $updates = $("#hammr-more");
 
   $(`input[name="editor-mode"][value="${editorMode}"]`).prop("checked", true);
   $('input[name="editor-mode"]').on("change", function (e) {

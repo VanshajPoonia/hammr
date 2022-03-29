@@ -14,7 +14,6 @@ Visit https://hammr.org, enjoy and happy coding. :)
 
 ## Community
 Do you have a question, feature request or something else on your mind?
-Or you just want to follow Judge0 news?
 Check out these links:
 
 * [Subscribe to Hammr newsletter](https://hammr-newsletter.web.app)
